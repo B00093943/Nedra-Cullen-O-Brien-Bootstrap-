@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/* CSS Document */
+/*Written by Nedra Cullen-O'Brien*/
+
+body{
+	background-color:#E8D2F8;
+}
+
+.jumbotron{
+	margin-top:7%;
+	background-color:#D7A0F5;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#D7A0F5), to(#6133C8));
+    background-image: -webkit-linear-gradient(top, #D7A0F5 0%, #6133C8 100%);
+    background-image:      -o-linear-gradient(top, #D7A0F5 0%, #6133C8 100%);
+    background-image:         linear-gradient(to bottom, #D7A0F5 0%,#6133C8 100%);
+	color:#FFFFFF;
+}
+
+.jumbotron img{
+	border-radius: 50%;
+	width:15%;
+	float:left;
+	margin-right:5%;
+}
+
+h3{
+	color:#FFFFFF;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+
+p{
+	color:#FFFFFF;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-weight:100;
+}
+
